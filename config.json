@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervncrypt",
+        "uuid": 7363020,
+        "checksum": "itkesm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
